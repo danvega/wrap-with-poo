@@ -1,1 +1,1 @@
-module.exports = str => `💩 ${str}💩`
+module.exports=s=>`💩 ${s}💩`
