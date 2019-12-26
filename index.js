@@ -1,3 +1,1 @@
-module.exports = (str) => {
-    return `💩 ${str}💩`;
-}
+module.exports = str => `💩 ${str}💩`
